@@ -1,5 +1,10 @@
-### Hi there 👋
-
+#  👋 Hi, i'm Francisco Bozo
+i'm Twenty two years old and also a recent Systems Engineering graduate at the Santiago Mariño university in **Venezuela**. I am always eager on learning different stuff. Of course, it is much better if there is some person that can explain it to me in an interesting way.
+## 🌱 I’m currently learning
+* Javascript
+* Node.JS
+* Git
+* Bash
 <!--
 **fcobozo/fcobozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
