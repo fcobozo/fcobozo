@@ -1,21 +1,23 @@
 #  👋 Hi, i'm Francisco Bozo
 i'm Twenty two years old and also a recent Systems Engineering graduate at the Santiago Mariño university in **Venezuela**. I am always eager on learning different stuff. Of course, it is much better if there is some person that can explain it to me in an interesting way.
+
 ## 🌱 I’m currently learning
 * Javascript
 * Node.JS
 * Git
 * Bash
-<!--
-**fcobozo/fcobozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Useful Shell Commands
+| Command | Description                                                  |
+|---------| ------------------------------------------------------------ |
+|Pwd      | Shows Current Directory                                      |
+|ls       | Lists files and directories                                  |
+|mkdir    | Useful to create Directories                                 |
+|alias    | Allows you to create a shotcut for various commands          |
+|mv       | This command is used to move and rename files and directories|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Useful Alias
+| Alias | Command                      | Description                                                                          |
+|-------|------------------------------|--------------------------------------------------------------------------------------|
+| findd | findd="ls ~/ &#124; grep $1" | Lists files and directories, then search the text after the command on their names   |
+| cl    | cl="clear"                   | Shorcut to clear command (used to clear the current terminal from previous commands) |
